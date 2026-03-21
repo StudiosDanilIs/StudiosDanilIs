@@ -1,4 +1,6 @@
-<h1 align="center">¡Hola! Soy Daniel ⚡</h1>
+<h1 align="center">
+  ¡Hola! Soy Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px" alt="Waving hand">
+</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +9,12 @@
 </div>
 
 <p align="center">
-  <em>Transformando café y pasión en código desde los Andes venezolanos 🇻🇪. Creador de <b>Studios Danills</b> y arquitecto de soluciones digitales.</em>
+  <em>Transformando café y pasión en código desde los Andes venezolanos 🇻🇪.<br>Creador de <b>Studios Danills</b> y arquitecto de soluciones digitales.</em>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=StudiosDanilIs&color=36BCF7&style=flat-square&label=VISITAS" alt="Visitor Badge" />
+</div>
 
 ---
 
@@ -16,23 +22,23 @@
 
 Soy un apasionado por la tecnología que cree en el poder del software para resolver problemas reales. Actualmente curso mi **4to año de Informática en la UPTAIET**, donde combino la teoría académica con horas de práctica autodidacta para construir herramientas que importen. 
 
-Cuando no estoy escribiendo código para mi app **Fluxia Finance** o dándole vida a nuevos proyectos, probablemente me encuentres destapando una PC para optimizar su hardware, jugando algún título de carreras o emuladores retro, o apoyando al **FC Barcelona** ⚽.
+Cuando no estoy escribiendo código, estructurando mi proyecto de grado o dándole vida a **Fluxia Finance**, probablemente me encuentres destapando mi Lenovo ThinkPad para optimizar su hardware, compitiendo en algún título de carreras, configurando emuladores retro, o apoyando al **FC Barcelona** ⚽.
 
 ### 🎮 Lo que me define
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>🌱 En qué ando trabajando:</b><br>
-      - Desarrollando <b>Fluxia Finance</b> para revolucionar las finanzas personales.<br>
-      - Dándole forma a mi proyecto de grado.<br>
-      - Escalando mi iniciativa <i>Studios Danills</i>.
+      <b>🌱 En qué ando trabajando:</b><br><br>
+      🚀 Desarrollando <b>Fluxia Finance</b> para revolucionar las finanzas personales.<br>
+      🎓 Dándole forma a mi proyecto final de grado.<br>
+      💼 Escalando mi iniciativa <i>Studios Danills</i>.
     </td>
     <td valign="top" width="50%">
-      <b>⚡ Mis pasatiempos y pasiones:</b><br>
-      - 🏎️ Videojuegos (¡especialmente carreras y emuladores!).<br>
-      - 🛠️ <i>Troubleshooting</i>, ensamblaje y optimización de hardware.<br>
-      - ⚽ Fiel seguidor del buen fútbol y del Barça.
+      <b>⚡ Mis pasatiempos y pasiones:</b><br><br>
+      🏎️ Videojuegos (¡especialmente carreras y emuladores!).<br>
+      🛠️ <i>Troubleshooting</i>, ensamblaje y optimización de hardware.<br>
+      ⚽ Fiel seguidor del buen fútbol y de la Champions.
     </td>
   </tr>
 </table>
@@ -41,14 +47,25 @@ Cuando no estoy escribiendo código para mi app **Fluxia Finance** o dándole vi
 
 ### 💻 Mi Arsenal Tecnológico
 
-**Backend & Core:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<div align="center">
+  <p><b>Backend, Frontend & Mobile</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,vue,flutter,html,css&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
 
-**Frontend & Móvil:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+---
+
+### 📁 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/StudiosDanilIs/NOMBRE_DEL_REPO_FLUXIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=NOMBRE_DEL_REPO_FLUXIA&theme=tokyonight&show_icons=true" alt="Fluxia Finance" width="48%"/>
+  </a>
+  <a href="https://github.com/StudiosDanilIs/NOMBRE_DEL_REPO_STUDIOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=NOMBRE_DEL_REPO_STUDIOS&theme=tokyonight&show_icons=true" alt="Studios Danills" width="48%"/>
+  </a>
+</div>
 
 ---
 
@@ -58,16 +75,16 @@ Cuando no estoy escribiendo código para mi app **Fluxia Finance** o dándole vi
   <img src="https://github-readme-stats.vercel.app/api?username=StudiosDanilIs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Daniel" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=StudiosDanilIs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudiosDanilIs&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudiosDanilIs&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="60%" />
 </div>
 
 ---
 
 ### 📫 ¡Conectemos!
 
-Siempre estoy abierto a hablar sobre código, colaborar en proyectos open source, discutir sobre los últimos componentes de PC o debatir sobre el último partido de Champions. 
+Siempre estoy abierto a hablar sobre código, colaborar en proyectos open source, discutir sobre componentes de PC o debatir sobre el último partido de Champions. 
 
-<div align="left">
+<div align="center">
   <a href="mailto:TU_CORREO@EMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
