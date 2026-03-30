@@ -1,156 +1,152 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL COLORIDO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:C77DFF&height=220&section=header&text=Hola!%20Soy%20Daniel%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Fundador%20de%20Studios%20Danills%20%F0%9F%9A%80&descAlignY=60&descSize=17&animation=fadeIn" />
+<!-- BANNER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:36BCF7&height=200&section=header&text=Daniel%20%E2%80%A2%20Studios%20Danills&fontSize=42&fontColor=36BCF7&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20Venezolano%20%F0%9F%87%BB%F0%9F%87%AA&descAlignY=60&descSize=16&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<!-- TYPING ANIMADO MULTICOLOR -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%90%8D+Python+%7C+Django+%7C+Backend+Dev;%F0%9F%93%B1+Flutter+%7C+Dart+%7C+Mobile+Dev;%F0%9F%9F%A9+Vue.js+%7C+JavaScript+%7C+Frontend;%F0%9F%9B%A0%EF%B8%8F+PC+Modding+%26+Hardware+Expert;%F0%9F%87%BB%F0%9F%87%AA+Desde+los+Andes+Venezolanos;%E2%9A%BD+Cule+de+corazon+%F0%9F%94%B5%F0%9F%94%B4)](https://git.io/typing-svg)
+<!-- TYPING ANIMADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=console.log(%22Hola%2C+soy+Daniel!%22)+%F0%9F%91%8B;Python+%7C+Django+%7C+Flutter+%7C+Vue;Fundador+de+Studios+Danills+%F0%9F%9A%80;Transformando+ideas+en+c%C3%B3digo+%E2%9A%A1;Cul%C3%A9+de+coraz%C3%B3n+%F0%9F%94%B5%F0%9F%94%B4)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<!-- BADGES COLORIDOS -->
-![Profile Views](https://komarev.com/ghpvc/?username=StudiosDanilIs&color=FF6B6B&style=for-the-badge&label=VISITAS)
-![GitHub followers](https://img.shields.io/github/followers/StudiosDanilIs?color=6BCB77&style=for-the-badge&logo=github&label=Seguidores)
-![GitHub stars](https://img.shields.io/github/stars/StudiosDanilIs?color=FFD93D&style=for-the-badge&logo=github&label=Estrellas)
+<!-- BADGES SOCIALES -->
+[![Profile Views](https://komarev.com/ghpvc/?username=StudiosDanilIs&color=36BCF7&style=for-the-badge&label=VISITAS)](https://github.com/StudiosDanilIs)
+[![GitHub followers](https://img.shields.io/github/followers/StudiosDanilIs?color=36BCF7&style=for-the-badge&logo=github&label=SEGUIDORES)](https://github.com/StudiosDanilIs?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/StudiosDanilIs?color=36BCF7&style=for-the-badge&logo=github&label=ESTRELLAS)](https://github.com/StudiosDanilIs)
 
 </div>
 
 ---
 
-## 🌟 Sobre mí
+## `> whoami`
 
-<table>
-<tr>
-<td width="55%" valign="top">
+```python
+class Daniel:
+    nombre     = "Daniel Alviarez"
+    studio     = "Studios Danills 🚀"
+    ubicacion  = "Tachira en Los Andes venezolanos 🇻🇪"
+    educacion  = "4to año Informática - UPTAIET 🎓"
+    estado     = "Disponible para colaborar ✅"
 
-```yaml
-nombre:     Daniel
-studio:     Studios Danills
-ubicacion:  Andes Venezolanos 🇻🇪
-estudios:   4to año Informática - UPTAIET
-estado:     Abierto a colaborar ✅
+    stack = {
+        "backend":  ["Python", "Django", "NodeJs"],
+        "frontend": ["JavaScript", "React", "HTML", "CSS"],
+        "mobile":   ["Flutter", "React Native"],
+        "tools":    ["Git", "GitHub", "Linux", "Figma", "VSCode", "Adobe", "Microsoft Office"]
+    }
 
-proyectos:
-  - Fluxia Finance 💹
-  - Proyecto Final de Grado 🎓
-  - Studios Danills 🏢
+    proyectos_activos = ["Fluxia Finance 💹", "Proyecto Futuro"]
 
-pasiones:
-  - SimRacing & RetroEmulación 🏎️
-  - PC Modding & Hardware 🛠️
-  - FC Barcelona ⚽
-  - Código con propósito 💡
-```
+    pasiones = ["VideoJuegos", "Bases de Datos", "Manga y Novelas Ligeras", "FC Barcelona ⚽"]
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🗓️ Mi Trayectoria
-
-```
-  🌱 2020          💡 2021          📱 2022          🏢 2023          💹 2024          🎓 2025          🚀 HOY
-     │                │                │                │                │                │                │
-─────┼────────────────┼────────────────┼────────────────┼────────────────┼────────────────┼────────────────┼──▶
-     │                │                │                │                │                │                │
- Primeros         Descubro         Flutter           Fundo          Fluxia Finance    Proyecto         Futuro
- pasos en         Django —         entra en          Studios        arranca 💹        Final de         brillante
- Python 🐍        mi hogar 🏠      escena 📱         Danills 🏢                       Grado 🎓         ✨
+    def saludo(self):
+        return "¡Tu Codigo es el que te define por eso no lo dejes de lado deja tu marca!"
 ```
 
 ---
 
-## 📊 Panel de Habilidades
+## `> timeline --mi-historia`
 
-### 🔴 Backend & Core
-| Tecnología | Nivel | Progreso |
-|:-----------|:-----:|:---------|
-| 🐍 Python | **85%** — Avanzado | `████████████████████░░░` |
-| 🟢 Django | **80%** — Avanzado | `████████████████████░░░` |
-| 🗄️ SQL / SQLite | **75%** — Intermedio | `██████████████████░░░░░` |
+```
+2020 ──────────────────────────────────────────────────────────────────▶
 
-### 🟡 Frontend & Mobile
-| Tecnología | Nivel | Progreso |
-|:-----------|:-----:|:---------|
-| 🌐 HTML & CSS | **85%** — Avanzado | `████████████████████░░░` |
-| 💛 JavaScript | **70%** — Intermedio | `████████████████░░░░░░░` |
-| 💚 Vue.js | **65%** — Intermedio | `███████████████░░░░░░░░` |
-| 💙 Flutter & Dart | **65%** — Intermedio | `███████████████░░░░░░░░` |
-
-### 🔵 Herramientas & Entorno
-| Tecnología | Nivel | Progreso |
-|:-----------|:-----:|:---------|
-| 🐧 Linux | **80%** — Avanzado | `████████████████████░░░` |
-| 🔀 Git & GitHub | **85%** — Avanzado | `████████████████████░░░` |
-| 🎨 Figma | **60%** — Intermedio | `██████████████░░░░░░░░░` |
-
-### 🛠️ Hardware (Mi Especialidad)
-| Área | Nivel | Progreso |
-|:-----|:-----:|:---------|
-| ⚙️ Diagnóstico & Reparación | **92%** — Experto | `██████████████████████░` |
-| 🔧 Ensamblaje de PCs | **90%** — Experto | `██████████████████████░` |
-| ⚡ Optimización & Overclocking | **88%** — Avanzado | `█████████████████████░░` |
+  [2020] 🌱  Primeros pasos con Python y la magia del código
+  [2021] 💡  Descubro Django — backend se convierte en mi hogar
+  [2022] 📱  Flutter entra en escena — del backend al mobile
+  [2023] 🏢  Fundo Studios Danills — ideas propias, código propio
+  [2024] 💹  Inicio Fluxia Finance — finanzas inteligentes
+  [2025] 🎓  Proyecto Final de Grado + crecimiento constante
+  [HOY]  🚀  Construyendo el futuro, un commit a la vez...
+```
 
 ---
 
-## 💻 Stack Tecnológico
+## `> skills --nivel`
+
+### 🔵 Backend & Core
+
+![Python](https://img.shields.io/badge/Python-★★★★☆-36BCF7?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-★★★★☆-092E20?style=flat-square&logo=django&logoColor=white)
+
+```
+Python   ███████████░░░░░░░░░░░░  57%
+Django   ████████████████░░░░░░░  67%
+```
+
+### 🟢 Frontend & Mobile
+
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-★★★☆☆-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+```
+JavaScript  ████████░░░░░░░░░░░░░░░  43%
+React       ███████████░░░░░░░░░░░░  50%
+Flutter     ██████████████░░░░░░░░░  60%
+HTML/CSS    ██████████████████░░░░░  80%
+React Nativ ███████████░░░░░░░░░░░░  50%
+```
+
+### 🔧 Hardware & Especialidad
+
+```
+Diagnóstico PC   ████████████████░░░░░░░  75%
+Ensamblaje       ████████████████████░░░  85%
+Optimización     █████████████████████░░  88%
+```
+
+---
+
+## `> stack --icons`
 
 <div align="center">
 
-### 🔴 Backend
-[![Skills](https://skillicons.dev/icons?i=py,django,sqlite&theme=dark)](https://skillicons.dev)
+### Núcleo & Backend
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite&theme=dark)](https://skillicons.dev)
 
-### 🟡 Frontend & Mobile
-[![Skills](https://skillicons.dev/icons?i=js,vue,html,css,flutter,dart&theme=dark)](https://skillicons.dev)
+### Frontend & Mobile
+[![My Skills](https://skillicons.dev/icons?i=js,vue,flutter,html,css,dart&theme=dark)](https://skillicons.dev)
 
-### 🔵 Herramientas
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark)](https://skillicons.dev)
+### Herramientas & Entorno
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📈 Métricas de GitHub
+## `> git stats --global`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StudiosDanilIs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=StudiosDanilIs&theme=radical&hide_border=true&border_radius=12" alt="Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=StudiosDanilIs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&border_radius=10" alt="Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=StudiosDanilIs&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&border_radius=10" alt="Streak" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudiosDanilIs&layout=donut&theme=radical&hide_border=true&border_radius=12" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudiosDanilIs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&border_radius=10" alt="Top Languages" width="50%" />
 
 </div>
 
 ---
 
-## 🏆 Logros
+## `> trophies --all`
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=StudiosDanilIs&theme=radical&no-bg=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=StudiosDanilIs&theme=tokyonight&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🌐 Actividad 3D
+## `> activity --3d`
 
 <div align="center">
 
@@ -160,42 +156,48 @@ pasiones:
 
 ---
 
-## 🚀 Proyectos Activos
+## `> projects --active`
 
 <div align="center">
 
-[![Fluxia Finance](https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=NOMBRE_DEL_REPO_FLUXIA&theme=radical&show_icons=true&border_radius=12)](https://github.com/StudiosDanilIs/NOMBRE_DEL_REPO_FLUXIA)
-[![Studios Danills](https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=StudiosDanilIs&theme=radical&show_icons=true&border_radius=12)](https://github.com/StudiosDanilIs/StudiosDanilIs)
+[![Fluxia Finance](https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=NOMBRE_DEL_REPO_FLUXIA&theme=tokyonight&show_icons=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&border_radius=10)](https://github.com/StudiosDanilIs/NOMBRE_DEL_REPO_FLUXIA)
+[![Studios Danills](https://github-readme-stats.vercel.app/api/pin/?username=StudiosDanilIs&repo=StudiosDanilIs&theme=tokyonight&show_icons=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&border_radius=10)](https://github.com/StudiosDanilIs/StudiosDanilIs)
 
 </div>
 
 ---
 
-## ✨ Frase del Día
+## `> motivation --random`
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br>
-
-> *"El mejor código es el que escribimos con pasión."* — **Daniel · Studios Danills**
+> *"El mejor código es el que escribimos con pasión."* — Daniel
 
 </div>
 
 ---
 
-## 📡 Conectemos
+## `> wakatime --weekly`
+
+<!--START_SECTION:waka-->
+<!-- Si configuras WakaTime (https://wakatime.com), aquí aparecerán tus stats de tiempo de codeo automáticamente -->
+<!--END_SECTION:waka-->
+
+> 💡 **Tip:** Conecta [WakaTime](https://wakatime.com) para mostrar automáticamente cuántas horas programas por semana y en qué lenguajes.
+
+---
+
+## `> connect --social`
 
 <div align="center">
 
-<p>Abierto a colaboraciones, proyectos, discusiones técnicas sobre Python / Flutter / Vue,<br>benchmarks de hardware o el último análisis del Barça. ¡Escríbeme! 🚀⚽</p>
+<p>Abierto a colaboraciones, proyectos open source, discusiones técnicas de Python/Flutter,<br>benchmarks de hardware o análisis del último partido del Barça. ¡Escríbeme! ⚽🚀</p>
 
-<br>
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@EMAIL.COM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudiosDanilIs)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alejandritohernandez010@Gmail.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-alviarez-81368a307)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudiosDanilIs)
 
 </div>
 
@@ -203,10 +205,8 @@ pasiones:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:0a0a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=130&section=footer&animation=fadeIn" />
-
-<sub>⚡ Hecho con pasión y cafe desde los Andes venezolanos · <b>Studios Danills</b> © 2025</sub>
+<sub>⚡ Hecho con pasión desde los Andes venezolanos · Studios Danills © 2025</sub>
 
 </div>
