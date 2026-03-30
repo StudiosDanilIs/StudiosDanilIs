@@ -1,0 +1,21 @@
+name: WakaTime Status Update
+
+on:
+  schedule:
+    # Se ejecuta automáticamente todos los días a la medianoche UTC
+    - cron: "0 0 * * *"
+  # Permite ejecutar el script manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          TIME_RANGE: last_7_days
