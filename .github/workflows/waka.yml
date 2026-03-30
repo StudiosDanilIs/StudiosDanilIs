@@ -2,10 +2,12 @@ name: WakaTime Status Update
 
 on:
   schedule:
-    # Se ejecuta automáticamente todos los días a la medianoche UTC
     - cron: "0 0 * * *"
-  # Permite ejecutar el script manualmente desde la pestaña Actions
   workflow_dispatch:
+
+# AÑADE ESTO: Le da permiso al bot para modificar el README
+permissions:
+  contents: write
 
 jobs:
   update-readme:
