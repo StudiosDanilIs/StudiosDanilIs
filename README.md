@@ -187,7 +187,7 @@ Python     44 mins               >>-----------------------   08.85 %
 <p>La comunidad lo es todo por eso mis proyectos son de uso libre<br>Si te gustan mis trabajos escríbame y te puedo ayudar en lo que necesites</p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alejandritohernandez010@Gmail.COM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-alviarez-81368a307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-alviarez-hernandez-81368a307/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudiosDanilIs)
 
 </div>
