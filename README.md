@@ -167,12 +167,12 @@ Optimización     ████████████████████�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Other        28 hrs 59 mins        >>>>>>>>>>>>>>>>>>>>>>>>-   96.88 %
-YAML         50 mins               >------------------------   02.79 %
-Markdown     5 mins                -------------------------   00.29 %
+Other        28 hrs 51 mins        >>>>>>>>>>>>>>>>>>>>>>>>-   97.14 %
+YAML         50 mins               >------------------------   02.82 %
 JavaScript   0 secs                -------------------------   00.04 %
+Markdown     0 secs                -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
