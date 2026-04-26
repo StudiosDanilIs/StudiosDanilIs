@@ -167,13 +167,13 @@ Optimización     ████████████████████�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Other             26 hrs                >>>>>>>>>>>>>>>>>>>>>>>--   92.16 %
-JavaScript        2 hrs 8 mins          >>-----------------------   07.56 %
-Groovy            1 min                 -------------------------   00.10 %
-Java Properties   1 min                 -------------------------   00.08 %
-JSON              1 min                 -------------------------   00.07 %
+Other             22 hrs                >>>>>>>>>>>>>>>>>>>>>>>--   91.37 %
+JavaScript        1 hr 59 mins          >>-----------------------   08.30 %
+Groovy            1 min                 -------------------------   00.11 %
+Java Properties   1 min                 -------------------------   00.10 %
+JSON              1 min                 -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
