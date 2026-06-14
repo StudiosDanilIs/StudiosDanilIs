@@ -167,11 +167,11 @@ Optimización     ████████████████████�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
-Other        8 hrs 23 mins         >>>>>>>>>>>>>>>>>>>>>>>--   91.78 %
-JavaScript   39 mins               >>-----------------------   07.29 %
-Text         5 mins                -------------------------   00.93 %
+Other        7 hrs 22 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.24 %
+JavaScript   42 mins               >>-----------------------   08.71 %
+Text         5 mins                -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
