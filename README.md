@@ -167,12 +167,12 @@ Optimización     ████████████████████�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
-Other        12 hrs 40 mins        >>>>>>>>>>>>>>>>>>>------   74.63 %
-TypeScript   3 hrs 4 mins          >>>>>--------------------   18.08 %
-JavaScript   1 hr 10 mins          >>-----------------------   06.90 %
-JSON         3 mins                -------------------------   00.38 %
+Other        12 hrs 9 mins         >>>>>>>>>>>>>>>>>>-------   73.26 %
+TypeScript   4 hrs 19 mins         >>>>>>>------------------   26.03 %
+JSON         3 mins                -------------------------   00.39 %
+JavaScript   3 mins                -------------------------   00.31 %
 Git Config   0 secs                -------------------------   00.01 %
 ```
 
